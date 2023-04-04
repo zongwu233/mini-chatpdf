@@ -1,3 +1,4 @@
 *.pdf
 *.index
 .env
+.DS_Store
