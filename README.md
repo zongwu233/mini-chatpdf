@@ -4,9 +4,10 @@
 
 this is a demo for gpt reading pdf with llama_index.
 
-## Install
+## Install dependencies
 
-you need python3. execute the command:
+you need python3.
+Then execute the command:
 
 ```shell
 pip install -r requirements.txt
